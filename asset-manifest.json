@@ -2,21 +2,21 @@
   "files": {
     "static/js/0.53b1fddc.chunk.js": "./static/js/0.53b1fddc.chunk.js",
     "static/js/1.2b8366d4.chunk.js": "./static/js/1.2b8366d4.chunk.js",
-    "main.js": "./static/js/main.6376ab9a.chunk.js",
-    "runtime-main.js": "./static/js/runtime-main.55ec586e.js",
+    "main.js": "./static/js/main.02434740.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.7f7f2177.js",
     "static/css/4.0a1dd32d.chunk.css": "./static/css/4.0a1dd32d.chunk.css",
-    "static/js/4.a0cc0d23.chunk.js": "./static/js/4.a0cc0d23.chunk.js",
-    "static/js/5.c090771e.chunk.js": "./static/js/5.c090771e.chunk.js",
+    "static/js/4.52007e41.chunk.js": "./static/js/4.52007e41.chunk.js",
+    "static/js/5.bccb5c04.chunk.js": "./static/js/5.bccb5c04.chunk.js",
     "static/js/6.d44f0101.chunk.js": "./static/js/6.d44f0101.chunk.js",
     "static/js/7.a817e55f.chunk.js": "./static/js/7.a817e55f.chunk.js",
     "static/js/8.8290a8a0.chunk.js": "./static/js/8.8290a8a0.chunk.js",
     "static/js/9.a33c495c.chunk.js": "./static/js/9.a33c495c.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.ffec9aa23ba9214b2f641e048dc37ddb.js": "./precache-manifest.ffec9aa23ba9214b2f641e048dc37ddb.js",
+    "precache-manifest.9c96a5d63cfedc30644e8b5d294759a1.js": "./precache-manifest.9c96a5d63cfedc30644e8b5d294759a1.js",
     "service-worker.js": "./service-worker.js",
     "static/js/0.53b1fddc.chunk.js.LICENSE.txt": "./static/js/0.53b1fddc.chunk.js.LICENSE.txt",
-    "static/js/4.a0cc0d23.chunk.js.LICENSE.txt": "./static/js/4.a0cc0d23.chunk.js.LICENSE.txt",
-    "static/js/5.c090771e.chunk.js.LICENSE.txt": "./static/js/5.c090771e.chunk.js.LICENSE.txt",
+    "static/js/4.52007e41.chunk.js.LICENSE.txt": "./static/js/4.52007e41.chunk.js.LICENSE.txt",
+    "static/js/5.bccb5c04.chunk.js.LICENSE.txt": "./static/js/5.bccb5c04.chunk.js.LICENSE.txt",
     "static/js/6.d44f0101.chunk.js.LICENSE.txt": "./static/js/6.d44f0101.chunk.js.LICENSE.txt",
     "static/js/8.8290a8a0.chunk.js.LICENSE.txt": "./static/js/8.8290a8a0.chunk.js.LICENSE.txt",
     "static/media/AVAX.png": "./static/media/AVAX.f1e70c38.png",
@@ -76,9 +76,9 @@
     "static/media/xl_uni.png": "./static/media/xl_uni.ed12c533.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.55ec586e.js",
+    "static/js/runtime-main.7f7f2177.js",
     "static/css/4.0a1dd32d.chunk.css",
-    "static/js/4.a0cc0d23.chunk.js",
-    "static/js/main.6376ab9a.chunk.js"
+    "static/js/4.52007e41.chunk.js",
+    "static/js/main.02434740.chunk.js"
   ]
 }
